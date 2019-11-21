@@ -41,8 +41,7 @@ ul li a{
 	border: 1px solid #fff;
 }
 .page{
-	margin-top:21.5vh; /* moving all the subjects to stay below the header*/
-	height:fit-content;
+margin-top: 140px; /* moving all the subjects to stay below the header*/
 }
 .pagecontent{
 	position:relative;
